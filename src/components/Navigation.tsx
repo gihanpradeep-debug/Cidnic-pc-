@@ -39,7 +39,7 @@ export const Header: React.FC<HeaderProps> = ({ onNavigate, cartCount }) => {
             TS
           </div>
           <span className="text-2xl font-black tracking-tighter text-slate-900">
-            TECH<span className="text-primary">SHOP</span>
+            Cidnic<span className="text-primary">SHOP</span>
           </span>
         </button>
 
@@ -160,7 +160,7 @@ export const Footer: React.FC = () => {
         </div>
       </div>
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-slate-800 flex flex-col md:row justify-between items-center gap-4 text-xs">
-        <p>© 2024 TechShop International. All rights reserved.</p>
+        <p>© 2026 TechShop International. All rights reserved.</p>
         <div className="flex gap-6">
           <button className="hover:text-white cursor-pointer">Privacy Policy</button>
           <button className="hover:text-white cursor-pointer">Terms of Service</button>
