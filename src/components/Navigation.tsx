@@ -36,7 +36,7 @@ export const Header: React.FC<HeaderProps> = ({ onNavigate, cartCount }) => {
           className="flex items-center gap-2 group cursor-pointer"
         >
           <div className="w-10 h-10 bg-primary rounded-xl flex items-center justify-center text-white font-black text-xl group-hover:rotate-6 transition-transform">
-            TS
+            CS
           </div>
           <span className="text-2xl font-black tracking-tighter text-slate-900">
             Cidnic<span className="text-primary">SHOP</span>
